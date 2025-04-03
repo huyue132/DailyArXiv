@@ -5,8 +5,10 @@ on:
     types:
       - created # for test
   schedule:
-      - cron: '30 16 * * 0-4' # 00:30 Beijing time every Monday to Friday
-
+      - cron: '13 8 * * 0-6' # 00:30 Beijing time every Monday to Friday
+  
+  workflow_dispatch:
+  
 permissions:
   contents: write
   issues: write 
@@ -38,10 +40,11 @@ jobs:
         commit-message: '✏️ Update papers automatically.'
         force-add: 'true'
         files: README.md .github/ISSUE_TEMPLATE.md
-        name: Zezhishao
-        email: 864453277@qq.com
+        name: huyue
+        email: 1669243169@qq.com
 
     - name: Create an issue to notify
       uses: JasonEtco/create-an-issue@v2
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
