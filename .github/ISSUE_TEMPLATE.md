@@ -4,60 +4,60 @@ labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
 
-## Time Series
+## magnetic resonance imaging
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[End-To-End Self-Tuning Self-Supervised Time Series Anomaly Detection](http://arxiv.org/abs/2404.02865v3)** | 2025-04-03 | Accepted at SDM 2025 |
-| **[A Dynamic, Ordinal Gaussian Process Item Response Theoretic Model](http://arxiv.org/abs/2504.02643v1)** | 2025-04-03 |  |
-| **[Adaptive Student's t-distribution with method of moments moving estimator for nonstationary time series](http://arxiv.org/abs/2304.03069v3)** | 2025-04-03 | 6 pages, 8 figures |
-| **[VISTA: Unsupervised 2D Temporal Dependency Representations for Time Series Anomaly Detection](http://arxiv.org/abs/2504.02498v1)** | 2025-04-03 |  |
-| **[FLEXtime: Filterbank learning to explain time series](http://arxiv.org/abs/2411.05841v3)** | 2025-04-03 | <details><summary>Accep...</summary><p>Accepted to The 3rd World Conference on eXplainable Artificial Intelligence</p></details> |
-| **[Transformer-based Multivariate Time Series Anomaly Localization](http://arxiv.org/abs/2501.08628v2)** | 2025-04-03 |  |
-| **[Temporal Gaussian Copula For Clinical Multivariate Time Series Data Imputation](http://arxiv.org/abs/2504.02317v1)** | 2025-04-03 | Accepted in BIBM2024 |
-| **[Traffic Flow Data Completion and Anomaly Diagnosis via Sparse and Low-Rank Tensor Optimization](http://arxiv.org/abs/2504.02245v1)** | 2025-04-03 |  |
-| **[Bayesian Inference for High-dimensional Time Series with a Directed Acyclic Graphical Structure](http://arxiv.org/abs/2503.23563v2)** | 2025-04-03 |  |
-| **[Movement-Prediction-Adjusted Naïve Forecast](http://arxiv.org/abs/2406.14469v7)** | 2025-04-03 |  |
-| **[FastFlow: Early Yet Robust Network Flow Classification using the Minimal Number of Time-Series Packets](http://arxiv.org/abs/2504.02174v1)** | 2025-04-02 | <details><summary>This ...</summary><p>This paper is accepted at ACM SIGMETRICS 2025. Proc. ACM Meas. Anal. Comput. Syst (2025)</p></details> |
-| **[Reducing Smoothness with Expressive Memory Enhanced Hierarchical Graph Neural Networks](http://arxiv.org/abs/2504.00349v2)** | 2025-04-02 |  |
-| **[Niche Dynamics in Complex Online Community Ecosystems](http://arxiv.org/abs/2504.02153v1)** | 2025-04-02 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, conditionally accepted to ICWSM 2025</p></details> |
-| **[Efficient Model Selection for Time Series Forecasting via LLMs](http://arxiv.org/abs/2504.02119v1)** | 2025-04-02 | 16 pages, 3 Figures |
-| **[Limits to Analog Reservoir Learning](http://arxiv.org/abs/2307.14474v3)** | 2025-04-02 | 10 pages, 1 figure |
+| **[Translation of Fetal Brain Ultrasound Images into Pseudo-MRI Images using Artificial Intelligence](http://arxiv.org/abs/2504.02408v1)** | 2025-04-03 | 13 pages, 7 figures |
+| **[Equivariant Spherical CNNs for Accurate Fiber Orientation Distribution Estimation in Neonatal Diffusion MRI with Reduced Acquisition Time](http://arxiv.org/abs/2504.01925v1)** | 2025-04-02 |  |
+| **[Segmentation variability and radiomics stability for predicting Triple-Negative Breast Cancer subtype using Magnetic Resonance Imaging](http://arxiv.org/abs/2504.01692v1)** | 2025-04-02 | 22 pages, 7 figures |
+| **[BOLDSimNet: Examining Brain Network Similarity between Task and Resting-State fMRI](http://arxiv.org/abs/2504.01274v1)** | 2025-04-02 |  |
+| **[Graph Classification and Radiomics Signature for Identification of Tuberculous Meningitis](http://arxiv.org/abs/2504.00943v1)** | 2025-04-01 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 3 tables</p></details> |
+| **[Patient-specific prediction of glioblastoma growth via reduced order modeling and neural networks](http://arxiv.org/abs/2412.05330v2)** | 2025-04-01 |  |
+| **[Projection-based Reduced Order Modelling for Unsteady Parametrized Optimal Control Problems in 3D Cardiovascular Flows](http://arxiv.org/abs/2410.20828v2)** | 2025-04-01 |  |
+| **[Detecting Glioma, Meningioma, and Pituitary Tumors, and Normal Brain Tissues based on Yolov11 and Yolov8 Deep Learning Models](http://arxiv.org/abs/2504.00189v1)** | 2025-03-31 | <details><summary>6 pag...</summary><p>6 pages, 7 figures, 8 tables</p></details> |
+| **[SIMPLE: Simultaneous Multi-Plane Self-Supervised Learning for Isotropic MRI Restoration from Anisotropic Data](http://arxiv.org/abs/2408.13065v2)** | 2025-03-29 |  |
+| **[Style transfer between Microscopy and Magnetic Resonance Imaging via Generative Adversarial Network in small sample size settings](http://arxiv.org/abs/2310.10414v2)** | 2025-03-28 | <details><summary>2023 ...</summary><p>2023 IEEE International Conference on Image Processing (ICIP)</p></details> |
+| **[NeuroLIP: Interpretable and Fair Cross-Modal Alignment of fMRI and Phenotypic Text](http://arxiv.org/abs/2503.21964v1)** | 2025-03-27 |  |
+| **[Sparse Bayesian Learning for Label Efficiency in Cardiac Real-Time MRI](http://arxiv.org/abs/2503.21443v1)** | 2025-03-27 |  |
+| **[Exploring Robustness of Cortical Morphometry in the presence of white matter lesions, using Diffusion Models for Lesion Filling](http://arxiv.org/abs/2503.20571v1)** | 2025-03-26 |  |
+| **[CATD: Unified Representation Learning for EEG-to-fMRI Cross-Modal Generation](http://arxiv.org/abs/2408.00777v3)** | 2025-03-26 | <details><summary>11 pa...</summary><p>11 pages, 9 figures, Accepted by IEEE Transactions on Medical Imaging</p></details> |
+| **[Learning to segment anatomy and lesions from disparately labeled sources in brain MRI](http://arxiv.org/abs/2503.18840v2)** | 2025-03-25 |  |
 
-## Trajectory
+## mri
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Deep Representation Learning for Unsupervised Clustering of Myocardial Fiber Trajectories in Cardiac Diffusion Tensor Imaging](http://arxiv.org/abs/2504.01953v1)** | 2025-04-02 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Submitted to MICCAI 2025 (under review)</p></details> |
-| **[End-to-End Driving with Online Trajectory Evaluation via BEV World Model](http://arxiv.org/abs/2504.01941v1)** | 2025-04-02 |  |
-| **[Virtual Target Trajectory Prediction for Stochastic Targets](http://arxiv.org/abs/2504.01851v1)** | 2025-04-02 | <details><summary>will ...</summary><p>will be submitted to Journal of Guidance, Control, and Dynamics</p></details> |
-| **[Quattro: Transformer-Accelerated Iterative Linear Quadratic Regulator Framework for Fast Trajectory Optimization](http://arxiv.org/abs/2504.01806v1)** | 2025-04-02 |  |
-| **[ACTIVE: Continuous Similarity Search for Vessel Trajectories](http://arxiv.org/abs/2504.01142v1)** | 2025-04-01 |  |
-| **[Tra-MoE: Learning Trajectory Prediction Model from Multiple Domains for Adaptive Policy Conditioning](http://arxiv.org/abs/2411.14519v2)** | 2025-04-01 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025. Code Page: https://github.com/MCG-NJU/Tra-MoE</p></details> |
-| **[Timely Trajectory Reconstruction in Finite Buffer Remote Tracking Systems](http://arxiv.org/abs/2504.00849v1)** | 2025-04-01 |  |
-| **[Fine-Grained Behavior and Lane Constraints Guided Trajectory Prediction Method](http://arxiv.org/abs/2503.21477v2)** | 2025-04-01 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Joint Beamforming and Trajectory Optimization for Multi-UAV-Assisted Integrated Sensing and Communication Systems](http://arxiv.org/abs/2503.16915v2)** | 2025-04-01 | 5 pages, 1 figure |
-| **[Design and Validation of an Intention-Aware Probabilistic Framework for Trajectory Prediction: Integrating COLREGS, Grounding Hazards, and Planned Routes](http://arxiv.org/abs/2504.00731v1)** | 2025-04-01 |  |
-| **[Geometry Based UAV Trajectory Planning for Mixed User Traffic in mmWave Communication](http://arxiv.org/abs/2504.00689v1)** | 2025-04-01 | <details><summary>This ...</summary><p>This work has been submitted to a reputed conference</p></details> |
-| **[Harmonic model predictive control for tracking sinusoidal references and its application to trajectory tracking](http://arxiv.org/abs/2310.16723v2)** | 2025-04-01 | <details><summary>Accep...</summary><p>Accepted version of the article published in IEEE Transactions on Automatic Control (8 pages, 5 figures)</p></details> |
-| **[Aligning Diffusion Model with Problem Constraints for Trajectory Optimization](http://arxiv.org/abs/2504.00342v1)** | 2025-04-01 |  |
-| **[Learning Velocity and Acceleration: Self-Supervised Motion Consistency for Pedestrian Trajectory Prediction](http://arxiv.org/abs/2503.24272v1)** | 2025-03-31 |  |
-| **[Dynamic High-Order Control Barrier Functions with Diffuser for Safety-Critical Trajectory Planning at Signal-Free Intersections](http://arxiv.org/abs/2412.00162v2)** | 2025-03-31 | <details><summary>11 fi...</summary><p>11 figures, 5 tables, 15 pages</p></details> |
+| **[Translation of Fetal Brain Ultrasound Images into Pseudo-MRI Images using Artificial Intelligence](http://arxiv.org/abs/2504.02408v1)** | 2025-04-03 | 13 pages, 7 figures |
+| **[DH-Mamba: Exploring Dual-domain Hierarchical State Space Models for MRI Reconstruction](http://arxiv.org/abs/2501.08163v3)** | 2025-03-31 |  |
+| **[SIMPLE: Simultaneous Multi-Plane Self-Supervised Learning for Isotropic MRI Restoration from Anisotropic Data](http://arxiv.org/abs/2408.13065v2)** | 2025-03-29 |  |
+| **[AI-Driven MRI Spine Pathology Detection: A Comprehensive Deep Learning Approach for Automated Diagnosis in Diverse Clinical Settings](http://arxiv.org/abs/2503.20316v2)** | 2025-03-28 | 20 pages , 3 figurea |
+| **[Comprehensive segmentation of deep grey nuclei from structural MRI data](http://arxiv.org/abs/2503.21955v1)** | 2025-03-27 | <details><summary>7 Fig...</summary><p>7 Figures 2 Tables 2 Supplemental Figures 1 Supplemental Table</p></details> |
+| **[Sparse Bayesian Learning for Label Efficiency in Cardiac Real-Time MRI](http://arxiv.org/abs/2503.21443v1)** | 2025-03-27 |  |
+| **[A weakly-supervised deep learning model for fast localisation and delineation of the skeleton, internal organs, and spinal canal on Whole-Body Diffusion-Weighted MRI (WB-DWI)](http://arxiv.org/abs/2503.20722v1)** | 2025-03-26 |  |
+| **[SeLIP: Similarity Enhanced Contrastive Language Image Pretraining for Multi-modal Head MRI](http://arxiv.org/abs/2503.19801v1)** | 2025-03-25 |  |
+| **[Pfungst and Clever Hans: Identifying the unintended cues in a widely used Alzheimer's disease MRI dataset using explainable deep learning](http://arxiv.org/abs/2501.15831v2)** | 2025-03-25 |  |
+| **[Learning to segment anatomy and lesions from disparately labeled sources in brain MRI](http://arxiv.org/abs/2503.18840v2)** | 2025-03-25 |  |
+| **[TrackRAD2025 challenge dataset: Real-time tumor tracking for MRI-guided radiotherapy](http://arxiv.org/abs/2503.19119v1)** | 2025-03-24 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 2 tables; submitted to Medical Physics</p></details> |
+| **[Dual-domain Multi-path Self-supervised Diffusion Model for Accelerated MRI Reconstruction](http://arxiv.org/abs/2503.18836v1)** | 2025-03-24 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, 5 tables</p></details> |
+| **[ZECO: ZeroFusion Guided 3D MRI Conditional Generation](http://arxiv.org/abs/2503.18246v1)** | 2025-03-24 | <details><summary>Proje...</summary><p>Project page: \url{https://brack-wang.github.io/ZECO_web/}; Github Code: \url{https://github.com/Brack-Wang/ZECO}</p></details> |
+| **[Confidence Intervals for Performance Estimates in Brain MRI Segmentation](http://arxiv.org/abs/2307.10926v3)** | 2025-03-23 |  |
+| **[SNRAware: Improved Deep Learning MRI Denoising with SNR Unit Training and G-factor Map Augmentation](http://arxiv.org/abs/2503.18162v1)** | 2025-03-23 |  |
 
-## Graph Neural Networks
+## medical imaging
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MI-HGNN: Morphology-Informed Heterogeneous Graph Neural Network for Legged Robot Contact Perception](http://arxiv.org/abs/2409.11146v3)** | 2025-04-03 | <details><summary>6 pag...</summary><p>6 pages, 5 figures; This work has been accepted to ICRA 2025 and will soon be published</p></details> |
-| **[A Hybrid Similarity-Aware Graph Neural Network with Transformer for Node Classification](http://arxiv.org/abs/2504.02615v1)** | 2025-04-03 |  |
-| **[STEAK: Streaming Network for Continual Learning of Object Relocations under Household Context Drifts](http://arxiv.org/abs/2411.05549v2)** | 2025-04-03 |  |
-| **[Toward General and Robust LLM-enhanced Text-attributed Graph Learning](http://arxiv.org/abs/2504.02343v1)** | 2025-04-03 |  |
-| **[Enhancing Customer Contact Efficiency with Graph Neural Networks in Credit Card Fraud Detection Workflow](http://arxiv.org/abs/2504.02275v1)** | 2025-04-03 |  |
-| **[LLM-Augmented Graph Neural Recommenders: Integrating User Reviews](http://arxiv.org/abs/2504.02195v1)** | 2025-04-03 | Under Review |
-| **[Reducing Smoothness with Expressive Memory Enhanced Hierarchical Graph Neural Networks](http://arxiv.org/abs/2504.00349v2)** | 2025-04-02 |  |
-| **[OmniCellTOSG: The First Cell Text-Omic Signaling Graphs Dataset for Joint LLM and GNN Modeling](http://arxiv.org/abs/2504.02148v1)** | 2025-04-02 |  |
-| **[LL4G: Self-Supervised Dynamic Optimization for Graph-Based Personality Detection](http://arxiv.org/abs/2504.02146v1)** | 2025-04-02 |  |
-| **[From Text to Graph: Leveraging Graph Neural Networks for Enhanced Explainability in NLP](http://arxiv.org/abs/2504.02064v1)** | 2025-04-02 |  |
-| **[Graphically Speaking: Unmasking Abuse in Social Media with Conversation Insights](http://arxiv.org/abs/2504.01902v1)** | 2025-04-02 |  |
-| **[Geometric Reasoning in the Embedding Space](http://arxiv.org/abs/2504.02018v1)** | 2025-04-02 |  |
-| **[Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation](http://arxiv.org/abs/2408.00490v4)** | 2025-04-02 | <details><summary>14 pa...</summary><p>14 pages, accepted by WWW2025</p></details> |
-| **[Identifying Obfuscated Code through Graph-Based Semantic Analysis of Binary Code](http://arxiv.org/abs/2504.01481v1)** | 2025-04-02 | <details><summary>The 1...</summary><p>The 13th International Conference on Complex Networks and their Applications, Dec 2024, Istabul, Turkey</p></details> |
-| **[Adversarial Curriculum Graph-Free Knowledge Distillation for Graph Neural Networks](http://arxiv.org/abs/2504.00540v2)** | 2025-04-02 |  |
+| **[IMPACT: A Generic Semantic Loss for Multimodal Medical Image Registration](http://arxiv.org/abs/2503.24121v2)** | 2025-04-03 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). This is a preprint version and has not been peer-reviewed</p></details> |
+| **[Leveraging Sparse Annotations for Leukemia Diagnosis on the Large Leukemia Dataset](http://arxiv.org/abs/2504.02602v1)** | 2025-04-03 | Under Review |
+| **[SelfMedHPM: Self Pre-training With Hard Patches Mining Masked Autoencoders For Medical Image Segmentation](http://arxiv.org/abs/2504.02524v1)** | 2025-04-03 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2304.05919 by other authors</p></details> |
+| **[CAD: Confidence-Aware Adaptive Displacement for Semi-Supervised Medical Image Segmentation](http://arxiv.org/abs/2502.00536v2)** | 2025-04-03 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 4 tables</p></details> |
+| **[Translation of Fetal Brain Ultrasound Images into Pseudo-MRI Images using Artificial Intelligence](http://arxiv.org/abs/2504.02408v1)** | 2025-04-03 | 13 pages, 7 figures |
+| **[Agglomerating Large Vision Encoders via Distillation for VFSS Segmentation](http://arxiv.org/abs/2504.02351v1)** | 2025-04-03 |  |
+| **[Evaluating and Enhancing Segmentation Model Robustness with Metamorphic Testing](http://arxiv.org/abs/2504.02335v1)** | 2025-04-03 |  |
+| **[Beyond Conventional Transformers: The Medical X-ray Attention (MXA) Block for Improved Multi-Label Diagnosis Using Knowledge Distillation](http://arxiv.org/abs/2504.02277v1)** | 2025-04-03 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 5 tables. For supplementary material and code, see https://github.com/Hadi-M-Ibrahim/Beyond-Conventional-Transformers/</p></details> |
+| **[CARL: A Framework for Equivariant Image Registration](http://arxiv.org/abs/2405.16738v3)** | 2025-04-02 | CVPR 2025 |
+| **[Explaining 3D Computed Tomography Classifiers with Counterfactuals](http://arxiv.org/abs/2502.07156v2)** | 2025-04-02 | <details><summary>Code ...</summary><p>Code and models: https://github.com/ieee8023/ct-counterfactuals</p></details> |
+| **[GMAI-VL-R1: Harnessing Reinforcement Learning for Multimodal Medical Reasoning](http://arxiv.org/abs/2504.01886v1)** | 2025-04-02 |  |
+| **[STPNet: Scale-aware Text Prompt Network for Medical Image Segmentation](http://arxiv.org/abs/2504.01561v1)** | 2025-04-02 |  |
+| **[Semi-Supervised Biomedical Image Segmentation via Diffusion Models and Teacher-Student Co-Training](http://arxiv.org/abs/2504.01547v1)** | 2025-04-02 |  |
+| **[Beyond Nearest Neighbor Interpolation in Data Augmentation](http://arxiv.org/abs/2504.01527v1)** | 2025-04-02 | <details><summary>6 pag...</summary><p>6 pages, 9 figures, 1 table</p></details> |
+| **[BiSeg-SAM: Weakly-Supervised Post-Processing Framework for Boosting Binary Segmentation in Segment Anything Models](http://arxiv.org/abs/2504.01452v1)** | 2025-04-02 | <details><summary>2024 ...</summary><p>2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</p></details> |
 
